@@ -95,11 +95,13 @@ langkah 1: membuat project baru dengan tekan tombol Ctrl+Shift+P secara bersamaa
 
 -langkah1: membuat folder baru di sub folder lib dengan nama 'basic_widget' dan buat file bernama 'text_widget.dart' dan ketik kode ini
 ![Screenshot ubah flutter pe](images/4.01.png)
+
 lakukan import file text_widget.dart pada main.dart dan akan menghasilkan output seperti ini
 ![Screenshot text_widget](images/02.png)
 
 -langkah 2: buat file image_widget.dart yang berisi kode berikut
 ![Screenshot image_widget](images/4.02.png)
+
 Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
 ![Screenshot text_widget](images/assets.png)
 ![Screenshot text_widget](images/03.png)
