@@ -104,4 +104,6 @@ lakukan import file text_widget.dart pada main.dart dan akan menghasilkan output
 
 Lakukan penyesuaian asset pada file pubspec.yaml dan tambahkan file logo Anda di folder assets project hello_world.
 ![Screenshot text_widget](images/assets.png)
+
+dan akan menghasilkan output seperti di bawah ini
 ![Screenshot text_widget](images/03.png)
